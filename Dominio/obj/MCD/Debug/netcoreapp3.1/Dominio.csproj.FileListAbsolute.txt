@@ -1,0 +1,9 @@
+C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\Dominio\bin\MCD\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\Dominio\bin\MCD\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\Dominio\bin\MCD\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\Dominio\obj\MCD\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\Dominio\obj\MCD\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\Dominio\obj\MCD\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\Dominio\obj\MCD\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\Dominio\obj\MCD\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\Dominio\obj\MCD\Debug\netcoreapp3.1\Dominio.pdb
