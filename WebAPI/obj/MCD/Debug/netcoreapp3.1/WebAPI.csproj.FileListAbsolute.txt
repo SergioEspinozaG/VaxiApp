@@ -80,3 +80,7 @@ C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\WebAPI\bin\MCD\D
 C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\WebAPI\bin\MCD\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\WebAPI\bin\MCD\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\WebAPI\bin\MCD\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\WebAPI\bin\MCD\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\WebAPI\bin\MCD\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\WebAPI\bin\MCD\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SERGIO ESPINOZA\Google Drive\Cenfotec\NewNetCoreApp3.3\WebAPI\bin\MCD\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll

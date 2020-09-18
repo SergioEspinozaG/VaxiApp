@@ -17,6 +17,10 @@ namespace WebAPI.Controllers
         return await Mediador.Send(new Consulta.Lista());
     }
 
+    [HttpGet("{id}")]
+    public async Task<ActionResult<InstructorModel>> ObtenerInstructorPorId(Guid id){
+        return await Mediador.Send(new ConsultaId.Ejecuta{Id = id});
+    }
 
     [HttpPost]
     public async Task<ActionResult<Unit>> Crear(Nuevo.Ejecuta data){

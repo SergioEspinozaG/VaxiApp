@@ -11,6 +11,8 @@ namespace Persistencia.DapperConexion.Instructor
         public string Apellidos { get; set; }
 
         public string Titulo { get; set; }
-        
+
+        public DateTime? FechaDeCreacion { get; set; }
+
     }
 }

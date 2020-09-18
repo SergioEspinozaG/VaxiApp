@@ -13,6 +13,8 @@ namespace Dominio
 
         public Guid CursoId { get; set; }
 
+        public DateTime? FechaDeCreacion {get; set;}
+
         public Curso Curso { get; set; }
     }
 }

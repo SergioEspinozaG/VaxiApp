@@ -43,6 +43,7 @@ namespace Aplicacion.Instructores
                     Nombre = request.Nombre,
                     Apellidos = request.Apellidos,
                     Titulo = request.Titulo,
+                    
                 };
                 
                 var resultado = await _instructorRepository.NuevoInstructor(instructor);

@@ -15,6 +15,8 @@ namespace Dominio
 
         public byte[] Foto { get; set; }
 
+        public DateTime? FechaDeCreacion {get; set;}
+
         public Precio PrecioPromocion { get; set; }
 
         public ICollection<Comentario> ComentarioCurso { get; set; }

@@ -8,7 +8,6 @@ namespace Dominio
         public Guid InstructorId { get; set; }
 
         public Curso Curso { get; set; }
-
         public Instructor Instructor { get; set; }
     }
 }

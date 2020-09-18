@@ -20,5 +20,7 @@ namespace Aplicacion.Cursos
         public PrecioDto Precio { get; set; }
 
         public ICollection<ComentarioDto> Comentarios { get; set; }
+        
+        public DateTime? FechaDeCreacion { get; set; }
     }
 }
